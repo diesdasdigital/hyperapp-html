@@ -2,15 +2,15 @@
 
 [![npm](https://img.shields.io/npm/v/@hyperapp/html.svg)](https://www.npmjs.org/package/@hyperapp/html)
 
+**NOTE:** This is a fork of [Swizz/hyperapp-html](https://github.com/Swizz/hyperapp-html) to provide better types for Typescript.
+
 Html helper functions for [Hyperapp](https://github.com/hyperapp/hyperapp). Use @hyperapp/html as an alternative to JSX or the <samp>hyperapp.h</samp> function.
 
 ## Installation
 
 <pre>
-yarn add <a href=https://www.npmjs.com/package/@hyperapp/html>@hyperapp/html</a>
+yarn add <a href=https://www.npmjs.com/package/@hyperapp/html>@diesdasdigital/hyperapp-html</a>
 </pre>
-
-Don't want to set up a build environment? Download @hyperapp/html from [unpkg.com/@hyperapp/html](https://unpkg.com/@hyperapp/html) and it will be globally available through the <samp>window.hyperappHtml</samp> object.
 
 ## Usage
 
