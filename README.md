@@ -2,7 +2,9 @@
 
 [![npm](https://img.shields.io/npm/v/@hyperapp/html.svg)](https://www.npmjs.org/package/@hyperapp/html)
 
-**NOTE:** This is a fork of [Swizz/hyperapp-html](https://github.com/Swizz/hyperapp-html) to provide better types for Typescript.
+**NOTE:** This is a fork of [Swizz/hyperapp-html](https://github.com/Swizz/hyperapp-html) to provide better types for Typescript:
+- allow lazy components
+- allow passing a single `VNode` as children
 
 Html helper functions for [Hyperapp](https://github.com/hyperapp/hyperapp). Use @hyperapp/html as an alternative to JSX or the <samp>hyperapp.h</samp> function.
 
