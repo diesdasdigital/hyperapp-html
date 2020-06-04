@@ -1,4 +1,4 @@
-# @hyperapp/html
+# @diesdasdigital/hyperapp-html
 
 [![npm](https://img.shields.io/npm/v/@hyperapp/html.svg)](https://www.npmjs.org/package/@hyperapp/html)
 
