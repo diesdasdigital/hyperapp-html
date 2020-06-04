@@ -18,7 +18,7 @@ Here is a counter that can be incremented or decremented. Go ahead and [try it o
 
 ```jsx
 import { h, app } from "hyperapp"
-import { div, h1, button } from "@hyperapp/html"
+import { div, h1, button } from "@diesdasdigital/hyperapp-html"
 
 const state = {
   count: 0
