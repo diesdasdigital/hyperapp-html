@@ -6,12 +6,12 @@
 - allow lazy components
 - allow passing a single `VNode` as children
 
-Html helper functions for [Hyperapp](https://github.com/hyperapp/hyperapp). Use @hyperapp/html as an alternative to JSX or the <samp>hyperapp.h</samp> function.
+Html helper functions for [Hyperapp](https://github.com/hyperapp/hyperapp). Use @diesdasdigital/hyperapp-html as an alternative to JSX or the <samp>hyperapp.h</samp> function.
 
 ## Installation
 
 <pre>
-yarn add <a href=https://www.npmjs.com/package/@hyperapp/html>@diesdasdigital/hyperapp-html</a>
+yarn add <a href=https://www.npmjs.com/package/@diesdasdigital/hyperapp-html>@diesdasdigital/hyperapp-html</a>
 </pre>
 
 ## Usage
@@ -46,4 +46,4 @@ See [/vars.json](/vars.json) for the list of available Html tags you can use in 
 
 ## License
 
-@hyperapp/html is MIT licensed. See [LICENSE](LICENSE.md).
+@diesdasdigital/hyperapp-html is MIT licensed. See [LICENSE](LICENSE.md).
