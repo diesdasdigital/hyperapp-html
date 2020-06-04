@@ -1,6 +1,6 @@
 # @diesdasdigital/hyperapp-html
 
-[![npm](https://img.shields.io/npm/v/@hyperapp/html.svg)](https://www.npmjs.org/package/@hyperapp/html)
+[![npm](https://img.shields.io/npm/v/@diesdasdigital/hyperapp-html.svg)](https://www.npmjs.org/package/@diesdasdigital/hyperapp-html)
 
 **NOTE:** This is a fork of [Swizz/hyperapp-html](https://github.com/Swizz/hyperapp-html) to provide better types for Typescript:
 - allow lazy components
